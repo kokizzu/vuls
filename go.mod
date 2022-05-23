@@ -22,7 +22,7 @@ require (
 	github.com/google/subcommands v1.2.0
 	github.com/gosuri/uitable v0.0.4
 	github.com/hashicorp/go-uuid v1.0.2
-	github.com/hashicorp/go-version v1.4.0
+	github.com/hashicorp/go-version v1.5.0
 	github.com/jesseduffield/gocui v0.3.0
 	github.com/k0kubun/pp v3.0.1+incompatible
 	github.com/knqyf263/go-apk-version v0.0.0-20200609155635-041fdbb8563f
