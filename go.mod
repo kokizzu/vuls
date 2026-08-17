@@ -22,7 +22,7 @@ require (
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/d4l3k/messagediff v1.2.2-0.20190829033028-7e0a312ae40b
 	github.com/emersion/go-sasl v0.0.0-20241020182733-b788ff22d5a6
-	github.com/emersion/go-smtp v0.24.0
+	github.com/emersion/go-smtp v0.25.0
 	github.com/google/go-cmp v0.7.0
 	github.com/google/go-containerregistry v0.21.9
 	github.com/google/subcommands v1.2.0
@@ -48,7 +48,7 @@ require (
 	github.com/rifflock/lfshook v0.0.0-20180920164130-b9218ef580f5
 	github.com/saintfish/chardet v0.0.0-20230101081208-5e3ef4b5456d
 	github.com/samber/lo v1.53.0
-	github.com/sirupsen/logrus v1.9.4
+	github.com/sirupsen/logrus v1.10.0
 	github.com/spdx/tools-golang v0.5.7
 	github.com/spf13/cobra v1.10.2
 	go.etcd.io/bbolt v1.5.0
